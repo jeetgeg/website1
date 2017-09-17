@@ -3,3 +3,6 @@ Just demo app to learn Git
 
 
 ### 2004 traning.com
+
+
+### for another developer
