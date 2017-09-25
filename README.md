@@ -7,3 +7,6 @@ Just demo app to learn Git
 
 
 ### for another developer
+
+### copyright
+	@copy 2015 All rights reserved.
